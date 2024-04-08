@@ -2,7 +2,7 @@
 <h3 align="center">As someone deeply passionate about developing ML models</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/digital-natives-girl-using-laptop-with-headphones-genalpha-kids-future-kids-illustration-art_1033572-1640.jpg">
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m currently learning **Artificial Intelligence** 
 
 - 💬 Ask me about **Data Science, Machine Learning**
 
